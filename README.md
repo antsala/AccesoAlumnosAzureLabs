@@ -27,6 +27,6 @@ Cuando la máquina virtual esté iniciada, se activará el icono de acceso remot
 
 Importante. El link de activación es común para el grupo y se contabiliza una activación por cada registro. Si algún alumno se registra más de una vez, quitará una instancia a otro compañero. Si esto ocurriese u hubiese alguna duda, preguntar al profesor.
 
-Importante. Las credenciales de acceso a la VM te la proporcionará el profesor al iniciar la formación.
+Importante. Las credenciales de acceso a la VM te la proporcionará el profesor.
 
 Disfruta de la formación.
